@@ -1,0 +1,13 @@
+```yaml
+title: No Hiding Faith
+email: your-email@example.com
+description: >- # this means to fold newlines to spaces
+  A simple blog powered by Jekyll and hosted on GitHub Pages.
+baseurl: "" # change if site is hosted in a subfolder
+url: "https://<your-username>.github.io" # replace with your GitHub Pages URL
+theme: minima
+plugins:
+  - jekyll-feed
+markdown: kramdown
+paginate: 5
+```
